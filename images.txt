@@ -1,3 +1,3 @@
-alpine
-python:alpine3.19
 idootop/mi-gpt:latest
+python:alpine3.19
+alpine
